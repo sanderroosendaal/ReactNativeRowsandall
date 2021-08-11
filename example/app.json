@@ -1,0 +1,22 @@
+{
+  "name": "react-native-rowsandall-api-example",
+  "displayName": "RowsandallApi Example",
+  "expo": {
+    "name": "react-native-rowsandall-api-example",
+    "slug": "react-native-rowsandall-api-example",
+    "description": "Example app for react-native-rowsandall-api",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
