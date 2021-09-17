@@ -1,6 +1,6 @@
 # react-native-rowsandall-api
 
-a API integration with rowsandall for Reat Native
+a API integration with rowsandall for React Native
 
 ## Installation
 
